@@ -1,2 +1,2 @@
-# Линейные программы
-Epam corse
+# Epam corse
+
